@@ -1,4 +1,4 @@
 import nidaqmx
 
 with nidaqmx.Task() as task:
-    task.
+    task.ai.task
